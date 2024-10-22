@@ -106,5 +106,5 @@ function setScreenToBlackWithQuestion() {
   question.style.color = "white";
   setTimeout(() => {
     window.close();
-  }, 10000);
+  }, 4000);
 }
